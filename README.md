@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihran94
 - 👀 I’m interested in computer programer 
-- 🌱 I’m currently learning software developing 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whatsapp
 
